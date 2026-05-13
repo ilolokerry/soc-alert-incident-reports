@@ -170,6 +170,13 @@ https://www.linkedin.com/feed/update/urn:li:activity:7447652442583908352/
 
 ---
 
+### 🚨 SOC Alert Analysis – Day 21
+**Alert:** Traffic to Blacklisted IP <br>  
+**Severity:** Critical
+
+🔗 https://www.linkedin.com/feed/update/urn:li:ugcPost:7460269762749829120/
+
+---
 ## 🧠 About This Project
 
 This repository is part of my cybersecurity learning journey focused on SOC analysis, threat detection, and incident response. Each entry simulates real-world security investigations based on phishing attacks, malware activity, network anomalies, and endpoint compromise scenarios.
