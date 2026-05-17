@@ -184,6 +184,13 @@ https://www.linkedin.com/feed/update/urn:li:activity:7447652442583908352/
 🔗https://www.linkedin.com/feed/update/urn:li:ugcPost:7460990913268523009/
 
 ---
+### 🚨 SOC Alert Analysis – Day 23
+**Alert:** Arbitrary File Read on Check Point Security Gateway [CVE-2024-24919] <br>  
+**Severity:** Critical
+
+🔗https://www.linkedin.com/feed/update/urn:li:ugcPost:7461706526802624512/
+
+---
 ## 🧠 About This Project
 
 This repository is part of my cybersecurity learning journey focused on SOC analysis, threat detection, and incident response. Each entry simulates real-world security investigations based on phishing attacks, malware activity, network anomalies, and endpoint compromise scenarios.
